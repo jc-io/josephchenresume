@@ -72,7 +72,7 @@ export function JsonDisplay({ data }: JsonDisplayProps) {
           <h5 className="text-sm mb-2 text-gray-900">Main Sections</h5>
           <ul className="text-sm text-gray-700 space-y-1">
             <li>• personalInfo</li>
-            <li>• professionalSummary</li>
+            <li>• Summary</li>
             <li>• skills</li>
             <li>• experience</li>
             <li>• projects</li>

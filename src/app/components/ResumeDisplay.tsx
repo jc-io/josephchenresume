@@ -9,7 +9,7 @@ interface ResumeData {
     linkedin: string;
     location: string;
   };
-  professionalSummary: string;
+  Summary: string;
   skills: {
     programmingLanguages: string[];
     cloudInfrastructure: string[];
@@ -80,12 +80,12 @@ export function ResumeDisplay({ data }: ResumeDisplayProps) {
         </div>
       </div>
 
-      {/* Professional Summary */}
+      {/* Summary */}
       <div>
         <h3 className="text-xl mb-3 text-gray-900 uppercase tracking-wide border-b pb-2">
-          Professional Summary
+          Summary
         </h3>
-        <p className="text-gray-700 leading-relaxed">{data.professionalSummary}</p>
+        <p className="text-gray-700 leading-relaxed">{data.Summary}</p>
       </div>
 
       {/* Skills */}

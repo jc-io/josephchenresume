@@ -9,11 +9,11 @@ function App() {
       "name": "Joseph Chen",
       "phone": "+1(510)299-1821",
       "email": "josephsoftengineering@gmail.com",
-      "github": "github.com/jc-ig",
+      "github": "github.com/jc-io",
       "linkedin": "linkedin.com/in/joch2436",
       "location": "Castro Valley, CA"
     },
-    "professionalSummary": "Machine Learning Engineer with experience in developing scalable data pipelines, customer segmentation models, and deploying ML solutions on AWS. Proficient in Python, cloud infrastructure, and modern software development practices.",
+    "ummary": "Machine Learning Engineer with experience in full-stack development and leading product cycles from conception to completion. Skilled in building scalable ML pipelines, deploying models on AWS, and collaborating with cross-functional teams at high-growth technology companies.",
     "skills": {
       "programmingLanguages": ["Python", "HTML/CSS/JavaScript", "SQL"],
       "cloudInfrastructure": ["AWS", "Terraform", "Kubernetes/Docker"],
