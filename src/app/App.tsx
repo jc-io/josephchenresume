@@ -13,7 +13,7 @@ function App() {
       "linkedin": "linkedin.com/in/joch2436",
       "location": "Castro Valley, CA"
     },
-    "ummary": "Machine Learning Engineer with experience in full-stack development and leading product cycles from conception to completion. Skilled in building scalable ML pipelines, deploying models on AWS, and collaborating with cross-functional teams at high-growth technology companies.",
+    "Summary": "Machine Learning Engineer with experience in full-stack development and leading product cycles from conception to completion. Skilled in building scalable ML pipelines, deploying models on AWS, and collaborating with cross-functional teams at high-growth technology companies.",
     "skills": {
       "programmingLanguages": ["Python", "HTML/CSS/JavaScript", "SQL"],
       "cloudInfrastructure": ["AWS", "Terraform", "Kubernetes/Docker"],
